@@ -1,0 +1,2000 @@
+[
+  {
+    "rating": {
+      "max": 10,
+      "average": 7.8,
+      "stars": "40",
+      "min": 0
+    },
+    "reviews_count": 788,
+    "wish_count": 26920,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2432493858.jpg",
+      "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2432493858.jpg",
+      "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2432493858.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/6873143/",
+    "id": "6873143",
+    "mobile_url": "https://movie.douban.com/subject/6873143/mobile",
+    "title": "一条狗的使命",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/6873143",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/6873143/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "美国"
+    ],
+    "genres": [
+      "剧情",
+      "喜剧",
+      "冒险"
+    ],
+    "collect_count": 61915,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1000088/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1433487849.12.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1433487849.12.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1433487849.12.jpg"
+        },
+        "name": "布丽特·罗伯森",
+        "id": "1000088"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1002679/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/52.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/52.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/52.jpg"
+        },
+        "name": "丹尼斯·奎德",
+        "id": "1002679"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1049592/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1376584681.68.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1376584681.68.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1376584681.68.jpg"
+        },
+        "name": "佩吉·利普顿",
+        "id": "1049592"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1305235/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/38561.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/38561.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/38561.jpg"
+        },
+        "name": "乔什·加德",
+        "id": "1305235"
+      }
+    ],
+    "current_season": null,
+    "original_title": "A Dog's Purpose",
+    "summary": "影片以汪星人的视角展现狗狗和人类的微妙情感，一只狗狗陪伴小主人长大成人，甚至为他追到了女朋友，后来它年迈死去又转世投胎变成其他性别和类型的汪，第二次轮回狗狗变成了警犬威风凛凛，再次转轮回，又成了陪伴一位单身女青年的小柯基犬。在经历了多次轮回之后，最终回到最初的主人身边。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1018014/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/4333.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/4333.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/4333.jpg"
+        },
+        "name": "拉斯·霍尔斯道姆",
+        "id": "1018014"
+      }
+    ],
+    "comments_count": 29601,
+    "ratings_count": 58706,
+    "aka": [
+      "为了与你相遇(台)"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 0,
+      "stars": "00",
+      "min": 0
+    },
+    "reviews_count": 2,
+    "wish_count": 295,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2438402819.jpg",
+      "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2438402819.jpg",
+      "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2438402819.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26697532/",
+    "id": "26697532",
+    "mobile_url": "https://movie.douban.com/subject/26697532/mobile",
+    "title": "小阴谋大爱情",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26697532",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26697532/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "中国大陆"
+    ],
+    "genres": [
+      "剧情",
+      "爱情",
+      "悬疑"
+    ],
+    "collect_count": 72,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1369578/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1488255756.37.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1488255756.37.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1488255756.37.jpg"
+        },
+        "name": "高瀚宇",
+        "id": "1369578"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1315637/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1488525073.31.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1488525073.31.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1488525073.31.jpg"
+        },
+        "name": "潘时七",
+        "id": "1315637"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1369579/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1488255914.77.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1488255914.77.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1488255914.77.jpg"
+        },
+        "name": "侯雪龙",
+        "id": "1369579"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1275005/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1488525002.43.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1488525002.43.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1488525002.43.jpg"
+        },
+        "name": "贡米",
+        "id": "1275005"
+      }
+    ],
+    "current_season": null,
+    "original_title": "小阴谋大爱情",
+    "summary": "国外留学的生活让耀正享受世外桃源，但是他一直没有忘记一个再也找不到的女孩。就在女孩儿消失的那段日子里，耀正才清楚自己深爱的人是她。\n直到那一天耀正不得不回国接替他从不想接手的家业，因为他还未寻回他深爱的人。但是，父亲的病重让他必须承担起责任，虽然他知道自己菜鸟的不行。\n初涉职场就任董事长的耀正得到发小一俊的鼎力相助。就职第一天，一位清纯女孩儿金妍撞入眼帘，同时他也撞入设计部女神琳达的眼帘。\n不经意的一次晚餐小酌，耀正瞥到金妍和一个帅气的男孩儿在邻桌亲密无间的耳语。\n不经意的一次午餐寻觅，琳达看到金妍和竞争公司的老板微笑牵手又手握一份合同。\n为了得到所爱、所求，不同的阴谋忽至，让耀正深陷其中。\n彷徨的耀正纠结、挣扎，但愈发清晰的知道他要寻回深爱的女孩儿。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1327118/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1488256668.87.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1488256668.87.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1488256668.87.jpg"
+        },
+        "name": "薛芳民",
+        "id": "1327118"
+      }
+    ],
+    "comments_count": 36,
+    "ratings_count": 65,
+    "aka": [
+      "Planning of be in Love"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 8.4,
+      "stars": "45",
+      "min": 0
+    },
+    "reviews_count": 1966,
+    "wish_count": 28910,
+    "douban_site": "https://brand.douban.com/wolverine/",
+    "year": "2017",
+    "images": {
+      "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2431980130.jpg",
+      "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2431980130.jpg",
+      "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2431980130.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/25765735/",
+    "id": "25765735",
+    "mobile_url": "https://movie.douban.com/subject/25765735/mobile",
+    "title": "金刚狼3：殊死一战",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/25765735",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/25765735/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "美国"
+    ],
+    "genres": [
+      "剧情",
+      "动作",
+      "科幻"
+    ],
+    "collect_count": 137317,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1010508/",
+        "avatars": {
+          "small": "https://img5.doubanio.com/img/celebrity/small/22036.jpg",
+          "large": "https://img5.doubanio.com/img/celebrity/large/22036.jpg",
+          "medium": "https://img5.doubanio.com/img/celebrity/medium/22036.jpg"
+        },
+        "name": "休·杰克曼",
+        "id": "1010508"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1010540/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/50451.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/50451.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/50451.jpg"
+        },
+        "name": "帕特里克·斯图尔特",
+        "id": "1010540"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1363476/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1489059638.74.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1489059638.74.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1489059638.74.jpg"
+        },
+        "name": "达芙妮·基恩",
+        "id": "1363476"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1053504/",
+        "avatars": {
+          "small": "https://img5.doubanio.com/img/celebrity/small/1473866362.76.jpg",
+          "large": "https://img5.doubanio.com/img/celebrity/large/1473866362.76.jpg",
+          "medium": "https://img5.doubanio.com/img/celebrity/medium/1473866362.76.jpg"
+        },
+        "name": "波伊德·霍布鲁克",
+        "id": "1053504"
+      }
+    ],
+    "current_season": null,
+    "original_title": "Logan",
+    "summary": "2029年，变种人大幅减少，X战警已经解散。身心疲惫的金刚狼罗根（休·杰克曼 Hugh Jackman 饰）自愈因子逐渐消失，整天饮酒度日，靠当司机养家。他在墨西哥边境隐居，并照顾着饱受病痛折磨的老X教授（帕特里克·斯图尔特 Patrick Stewart 饰）。有一天，一位陌生女子让罗根送一个叫劳拉（达芙妮·金 Dafne Keen 饰）的女孩去加拿大边境，一开始罗根拒绝了，但查尔斯一直在等着这个女孩的出现，劳拉拥有超强的战斗力，而且在许多方面都很像金刚狼。她被一个强大公司的幕后人物所追踪，因为她的DNA里有连接罗根的秘密，一场无休止的追捕由此展开。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1036395/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/11282.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/11282.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/11282.jpg"
+        },
+        "name": "詹姆斯·曼高德",
+        "id": "1036395"
+      }
+    ],
+    "comments_count": 64946,
+    "ratings_count": 129628,
+    "aka": [
+      "卢根(港)",
+      "罗根(台)",
+      "金刚狼3：罗根",
+      "金刚狼3：暮狼寻乡",
+      "这个金刚不太狼(豆友译名)",
+      "Wolverine: Weapon X",
+      "Wolverine 3"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 6.7,
+      "stars": "35",
+      "min": 0
+    },
+    "reviews_count": 889,
+    "wish_count": 35294,
+    "douban_site": "",
+    "year": "2016",
+    "images": {
+      "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2429713841.jpg",
+      "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2429713841.jpg",
+      "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2429713841.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/20471852/",
+    "id": "20471852",
+    "mobile_url": "https://movie.douban.com/subject/20471852/mobile",
+    "title": "生化危机：终章",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/20471852",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/20471852/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "美国"
+    ],
+    "genres": [
+      "动作",
+      "科幻",
+      "恐怖"
+    ],
+    "collect_count": 91313,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1025154/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/2431.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/2431.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/2431.jpg"
+        },
+        "name": "米拉·乔沃维奇",
+        "id": "1025154"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1009367/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1416757467.73.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1416757467.73.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1416757467.73.jpg"
+        },
+        "name": "伊恩·格雷",
+        "id": "1009367"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1018978/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/187.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/187.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/187.jpg"
+        },
+        "name": "艾丽·拉特",
+        "id": "1018978"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1344655/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1468578204.83.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1468578204.83.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1468578204.83.jpg"
+        },
+        "name": "鲁比·罗丝",
+        "id": "1344655"
+      }
+    ],
+    "current_season": null,
+    "original_title": "Resident Evil: The Final Chapter",
+    "summary": "爱丽丝（米拉·乔沃维奇 Milla Jovovich 饰）在华盛顿特区被威斯克背叛后身陷险境，人类几乎要失去最后的希望。作为唯一的幸存者，也是人类对抗僵尸大军的最后防线，爱丽丝必须回到噩梦开始的地方——浣熊市，才能完成拯救世界救赎人类的正义使命。回归故事发生的起点浣熊市，爱丽丝将和昔日的朋友一起对抗僵尸和最新变种怪物，与 保护伞公司展开了一场惊心动魄的终极决战。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1031921/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/11288.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/11288.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/11288.jpg"
+        },
+        "name": "保罗·安德森",
+        "id": "1031921"
+      }
+    ],
+    "comments_count": 42279,
+    "ratings_count": 85955,
+    "aka": [
+      "恶灵古堡6：最终章(台)",
+      "生化危机6",
+      "Resident Evil: Rising",
+      "Resident Evil 6"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 7.3,
+      "stars": "40",
+      "min": 0
+    },
+    "reviews_count": 146,
+    "wish_count": 7054,
+    "douban_site": "",
+    "year": "2016",
+    "images": {
+      "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2436217927.jpg",
+      "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2436217927.jpg",
+      "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2436217927.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26762709/",
+    "id": "26762709",
+    "mobile_url": "https://movie.douban.com/subject/26762709/mobile",
+    "title": "最终幻想15：王者之剑",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26762709",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26762709/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "日本"
+    ],
+    "genres": [
+      "剧情",
+      "科幻",
+      "动画"
+    ],
+    "collect_count": 21093,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1049498/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1307.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1307.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1307.jpg"
+        },
+        "name": "亚伦·保尔",
+        "id": "1049498"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1002683/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/53.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/53.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/53.jpg"
+        },
+        "name": "肖恩·宾",
+        "id": "1002683"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1053571/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/32547.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/32547.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/32547.jpg"
+        },
+        "name": "琳娜·海蒂",
+        "id": "1053571"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1343192/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+          "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+          "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+        },
+        "name": "戴维·甘特",
+        "id": "1343192"
+      }
+    ],
+    "current_season": null,
+    "original_title": "Kingsglaive Final Fantasy XV",
+    "summary": "影片基于2016年电子角色扮演游戏《最终幻想XV》的世界观，构成新的水晶故事子系列的一部分。本片由野末武志执导，他曾是最终幻想CGI电影《最终幻想VII 降临之子》（2005）的联合导演。《最终幻想XV》总监田畑端担任电影监制，长谷川隆任编剧，约翰·R·格雷厄姆负责作曲。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1361966/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1473126947.39.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1473126947.39.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1473126947.39.jpg"
+        },
+        "name": "野末武志",
+        "id": "1361966"
+      }
+    ],
+    "comments_count": 8642,
+    "ratings_count": 19482,
+    "aka": [
+      "FF15",
+      "キングスグレイブ ファイナルファンタジーXV"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 7.4,
+      "stars": "40",
+      "min": 0
+    },
+    "reviews_count": 256,
+    "wish_count": 18700,
+    "douban_site": "",
+    "year": "2016",
+    "images": {
+      "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2441824955.jpg",
+      "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2441824955.jpg",
+      "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2441824955.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/5262339/",
+    "id": "5262339",
+    "mobile_url": "https://movie.douban.com/subject/5262339/mobile",
+    "title": "天才捕手",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/5262339",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/5262339/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "英国",
+      "美国"
+    ],
+    "genres": [
+      "剧情",
+      "传记"
+    ],
+    "collect_count": 18090,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1031223/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1497.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1497.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1497.jpg"
+        },
+        "name": "科林·费尔斯",
+        "id": "1031223"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1010510/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/107.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/107.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/107.jpg"
+        },
+        "name": "裘德·洛",
+        "id": "1010510"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1054442/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/619.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/619.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/619.jpg"
+        },
+        "name": "妮可·基德曼",
+        "id": "1054442"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1053572/",
+        "avatars": {
+          "small": "https://img5.doubanio.com/img/celebrity/small/516.jpg",
+          "large": "https://img5.doubanio.com/img/celebrity/large/516.jpg",
+          "medium": "https://img5.doubanio.com/img/celebrity/medium/516.jpg"
+        },
+        "name": "劳拉·琳妮",
+        "id": "1053572"
+      }
+    ],
+    "current_season": null,
+    "original_title": "Genius",
+    "summary": "上世纪20年代末，默默无闻的托马斯·沃尔夫（裘德·洛 Jude Law 饰）怀揣文学梦来到纽约，而他冗长的自传体小说被曾一手发掘过菲兹杰拉德、海明威等作家的文学编辑麦克斯·珀金斯（科林·费尔斯 Colin Firth 饰）看中。珀金斯大刀阔斧地为沃尔夫删减文章篇幅，最后该书出版时大获成功，沃尔夫也成为了文学界新星，而这本书正是他流传后世的著名小说《天使，望故乡》。\n在此之后，珀金斯和沃尔夫更加紧密地合作，但他们的亲近引起了沃尔夫女友（妮可·基德曼 Nicole Kidman 饰）的嫉妒。在沃尔夫第二本小说的即将面世之时，三人之间关系却愈发微妙。一边是发掘自己的伯乐，一边是相处多年的女友，他将如何抉择……",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1353395/",
+        "avatars": {
+          "small": "https://img5.doubanio.com/img/celebrity/small/1450675887.56.jpg",
+          "large": "https://img5.doubanio.com/img/celebrity/large/1450675887.56.jpg",
+          "medium": "https://img5.doubanio.com/img/celebrity/medium/1450675887.56.jpg"
+        },
+        "name": "迈克尔·格兰达吉",
+        "id": "1353395"
+      }
+    ],
+    "comments_count": 7587,
+    "ratings_count": 16265,
+    "aka": [
+      "笔羁天才(港)",
+      "天才柏金斯(台)",
+      "天才",
+      "天才作家梦"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 8.3,
+      "stars": "45",
+      "min": 0
+    },
+    "reviews_count": 497,
+    "wish_count": 19620,
+    "douban_site": "",
+    "year": "2016",
+    "images": {
+      "small": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2411622136.jpg",
+      "large": "https://img5.doubanio.com/view/movie_poster_cover/lpst/public/p2411622136.jpg",
+      "medium": "https://img5.doubanio.com/view/movie_poster_cover/spst/public/p2411622136.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26354572/",
+    "id": "26354572",
+    "mobile_url": "https://movie.douban.com/subject/26354572/mobile",
+    "title": "欢乐好声音",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26354572",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26354572/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "美国"
+    ],
+    "genres": [
+      "喜剧",
+      "动画",
+      "歌舞"
+    ],
+    "collect_count": 75448,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1040511/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1392653727.04.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1392653727.04.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1392653727.04.jpg"
+        },
+        "name": "马修·麦康纳",
+        "id": "1040511"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1031217/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/49827.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/49827.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/49827.jpg"
+        },
+        "name": "瑞茜·威瑟斯彭",
+        "id": "1031217"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1041123/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1354381657.24.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1354381657.24.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1354381657.24.jpg"
+        },
+        "name": "塞思·麦克法兰",
+        "id": "1041123"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1054453/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/37050.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/37050.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/37050.jpg"
+        },
+        "name": "斯嘉丽·约翰逊",
+        "id": "1054453"
+      }
+    ],
+    "current_season": null,
+    "original_title": "Sing",
+    "summary": "曾制作过《小黄人》的环球公司和Illumination Entertainment今天公布了他们一部新的动画电影档期和配音阵容。该片堪称动物界的“达人秀”和“好声音”，片中会用到超过85首热门歌曲！\n这部动画片叫做《歌唱秀》（Sing），将于2016年12月21日上映。马修·麦康纳希（Matthew McConaughey）为剧院老板巴斯特（Buster Moon）——一只考拉配音，这家剧院是他父亲建立的，曾经十分辉煌，但现在门庭冷落。为了重振剧院，考拉经理决定举办一场全世界最伟大的歌唱大赛，冠军将获得10万美元的奖金！这在动物王国已经算是巨款了！\n这场歌唱大赛最终选出了五位决赛选手，他们分别是：\n瑞茜·威瑟斯彭（Reese Witherspoon）配音的猪妈妈罗茜塔（Rosita），她年轻时一直有音乐梦想，后来一窝生了25只猪仔后梦想就烟消云散了。如今她参赛一方面是为圆梦，另一方面也是因为经济上入不敷出。\n斯嘉丽·约翰森（Scarlett Johansson）配音的少女豪猪艾什（Ash），她和男友建立了一个庞克摇滚乐队，但男友总是打击她，让她觉得自己没有音乐才华。如今她要摆脱傲慢的男友，开始自己的单飞事业。\n塞斯·麦克法兰（Seth MacFarlane）配音的老鼠歌手麦克（Mike），他有着辛纳特拉的动听歌喉，但心机很深，无时无刻不在利用遇到的每个人。\n托瑞·凯利（Tori Kelly）配音的小象米纳（Meena），胆子很小，有舞台恐惧症。\n塔伦·埃格顿（Taron Egerton）配音的年轻大猩猩强尼（Johnny），父亲一心想让他继承自己家族的黑帮事业，但他不愿子承父业、只想唱歌。\n此外，约翰·C·莱利（John C. Reilly）也将加盟本片，为考拉老板最好的朋友黑绵羊艾迪（Eddie）配音，他不看好歌唱比赛这个主意。\n《歌唱秀》由真人电影导演加斯·詹宁斯（Garth Jennings）执导，他曾拍过《银河系漫游指南》（The Hitchhiker’s Guide to the Galaxy）、《兰博之子》（Son of Rambow）等片。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1303814/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/21808.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/21808.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/21808.jpg"
+        },
+        "name": "加斯·詹宁斯",
+        "id": "1303814"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1366253/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+          "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+          "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+        },
+        "name": "克里斯托夫·卢尔德莱",
+        "id": "1366253"
+      }
+    ],
+    "comments_count": 34427,
+    "ratings_count": 71186,
+    "aka": [
+      "歌唱秀",
+      "星梦动物园(港)",
+      "演唱",
+      "歌唱",
+      "动物园好声音"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 8.2,
+      "stars": "40",
+      "min": 0
+    },
+    "reviews_count": 99,
+    "wish_count": 9971,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2417949761.jpg",
+      "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2417949761.jpg",
+      "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2417949761.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26145033/",
+    "id": "26145033",
+    "mobile_url": "https://movie.douban.com/subject/26145033/mobile",
+    "title": "乐高蝙蝠侠大电影",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26145033",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26145033/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "美国"
+    ],
+    "genres": [
+      "喜剧",
+      "动作",
+      "动画"
+    ],
+    "collect_count": 15861,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1044709/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/7197.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/7197.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/7197.jpg"
+        },
+        "name": "威尔·阿奈特",
+        "id": "1044709"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1044717/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1433831951.79.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1433831951.79.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1433831951.79.jpg"
+        },
+        "name": "罗莎里奥·道森",
+        "id": "1044717"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1006956/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/28941.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/28941.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/28941.jpg"
+        },
+        "name": "拉尔夫·费因斯",
+        "id": "1006956"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1053576/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1388.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1388.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1388.jpg"
+        },
+        "name": "迈克尔·塞拉",
+        "id": "1053576"
+      }
+    ],
+    "current_season": null,
+    "original_title": "The LEGO Batman Movie",
+    "summary": "蝙蝠侠（威尔·阿奈特 Will Arnett 配音）一边要阻止小丑（扎克·加利凡纳基斯 Zach Galifianakis 配音）犯罪，一边要抚养罗宾（迈克尔·塞拉 Michael Cera 配音）长大，而且，为了保护哥谭市的安全，蝙蝠侠不得不从一个独行侠，变成善于“团队合作”的城市警察。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1276297/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1410316482.29.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1410316482.29.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1410316482.29.jpg"
+        },
+        "name": "克里斯·麦凯",
+        "id": "1276297"
+      }
+    ],
+    "comments_count": 8240,
+    "ratings_count": 14870,
+    "aka": [
+      "Lego蝙蝠侠英雄传(港)",
+      "乐高蝙蝠侠电影(台)",
+      "乐高蝙蝠侠",
+      "乐高大电影：蝙蝠侠"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 8.4,
+      "stars": "45",
+      "min": 0
+    },
+    "reviews_count": 6292,
+    "wish_count": 75287,
+    "douban_site": "",
+    "year": "2016",
+    "images": {
+      "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2425658570.jpg",
+      "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2425658570.jpg",
+      "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2425658570.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/25934014/",
+    "id": "25934014",
+    "mobile_url": "https://movie.douban.com/subject/25934014/mobile",
+    "title": "爱乐之城",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/25934014",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/25934014/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "美国"
+    ],
+    "genres": [
+      "剧情",
+      "爱情",
+      "歌舞"
+    ],
+    "collect_count": 260595,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1012531/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/938.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/938.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/938.jpg"
+        },
+        "name": "瑞恩·高斯林",
+        "id": "1012531"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1040506/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1398005949.4.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1398005949.4.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1398005949.4.jpg"
+        },
+        "name": "艾玛·斯通",
+        "id": "1040506"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1014178/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1487126502.97.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1487126502.97.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1487126502.97.jpg"
+        },
+        "name": "约翰·传奇",
+        "id": "1014178"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1040580/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1382850435.57.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1382850435.57.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1382850435.57.jpg"
+        },
+        "name": "罗丝玛丽·德薇特",
+        "id": "1040580"
+      }
+    ],
+    "current_season": null,
+    "original_title": "La La Land",
+    "summary": "米娅（艾玛·斯通 Emma Stone 饰）渴望成为一名演员，但至今她仍旧只是片场咖啡厅里的一名平凡的咖啡师，尽管不停的参加着大大小小的试镜，但米娅收获的只有失败。某日，在一场派对之中，米娅邂逅了名为塞巴斯汀（瑞恩·高斯林 Ryan Gosling 饰）的男子，起初两人之间产生了小小的矛盾，但很快，米娅便被塞巴斯汀身上闪耀的才华以及他对爵士乐的纯粹追求所吸引，最终两人走到了一起。\n在塞巴斯汀的鼓励下，米娅辞掉了咖啡厅的工作，专心为自己写起了剧本，与此同时，塞巴斯汀为了获得一份稳定的收入，加入了一支流行爵士乐队，开始演奏自己并不喜欢的现代爵士乐，没想到一炮而红。随着时间的推移，努力追求梦想的两人，彼此之间的距离却越来越远，在理想和感情之间，他们必须做出选择。©豆瓣",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1014996/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1484063163.78.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1484063163.78.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1484063163.78.jpg"
+        },
+        "name": "达米恩·查泽雷",
+        "id": "1014996"
+      }
+    ],
+    "comments_count": 127658,
+    "ratings_count": 246744,
+    "aka": [
+      "星声梦里人(港)",
+      "乐来越爱你(台)",
+      "爵士情缘",
+      "啦啦之地"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 0,
+      "stars": "00",
+      "min": 0
+    },
+    "reviews_count": 34,
+    "wish_count": 373,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2432636272.jpg",
+      "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2432636272.jpg",
+      "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2432636272.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26961684/",
+    "id": "26961684",
+    "mobile_url": "https://movie.douban.com/subject/26961684/mobile",
+    "title": "玛格丽特的春天",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26961684",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26961684/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "中国大陆"
+    ],
+    "genres": [
+      "喜剧",
+      "爱情"
+    ],
+    "collect_count": 336,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1350408/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1437031126.82.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1437031126.82.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1437031126.82.jpg"
+        },
+        "name": "艾伦",
+        "id": "1350408"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1326390/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/wviB4QqqVOocel_avatar_uploaded1358737569.07.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/wviB4QqqVOocel_avatar_uploaded1358737569.07.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/wviB4QqqVOocel_avatar_uploaded1358737569.07.jpg"
+        },
+        "name": "王自健",
+        "id": "1326390"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1274859/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/6847.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/6847.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/6847.jpg"
+        },
+        "name": "田亮",
+        "id": "1274859"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1043040/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/6007.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/6007.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/6007.jpg"
+        },
+        "name": "胡杏儿",
+        "id": "1043040"
+      }
+    ],
+    "current_season": null,
+    "original_title": "玛格丽特的春天",
+    "summary": "赌神之女与首富之子即将举行一场世纪婚礼，有关婚礼的一切顿时成了引人瞩目的热门话题。一时间，婚礼造型师、婚宴主厨、品酒师、娱乐小报主编、过气女明星、八国混血贵族，各怀心思纷纷来到澳门，几段阴差阳错又妙趣横生的恋情就此展开……",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1327465/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1488094575.07.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1488094575.07.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1488094575.07.jpg"
+        },
+        "name": "王宁",
+        "id": "1327465"
+      }
+    ],
+    "comments_count": 206,
+    "ratings_count": 320,
+    "aka": [
+      "Little Lucky"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 5,
+      "stars": "25",
+      "min": 0
+    },
+    "reviews_count": 79,
+    "wish_count": 2877,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2429466533.jpg",
+      "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2429466533.jpg",
+      "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2429466533.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26425075/",
+    "id": "26425075",
+    "mobile_url": "https://movie.douban.com/subject/26425075/mobile",
+    "title": "夜色撩人",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26425075",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26425075/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "中国大陆"
+    ],
+    "genres": [
+      "剧情"
+    ],
+    "collect_count": 1279,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1314827/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1445948736.67.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1445948736.67.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1445948736.67.jpg"
+        },
+        "name": "王千源",
+        "id": "1314827"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1050430/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/52860.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/52860.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/52860.jpg"
+        },
+        "name": "余男",
+        "id": "1050430"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1225641/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/29517.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/29517.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/29517.jpg"
+        },
+        "name": "南宫珉",
+        "id": "1225641"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1316365/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/36063.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/36063.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/36063.jpg"
+        },
+        "name": "潘斌龙",
+        "id": "1316365"
+      }
+    ],
+    "current_season": null,
+    "original_title": "夜色撩人",
+    "summary": "芥子（余男 饰）与丈夫钟桥北（南宫珉 饰）是一对年轻的成功人士，某夜家中发生抢劫，身为丈夫的钟桥北没能保护妻子，从此平静的生活被打破。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1285109/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/14610.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/14610.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/14610.jpg"
+        },
+        "name": "夏钢",
+        "id": "1285109"
+      }
+    ],
+    "comments_count": 760,
+    "ratings_count": 1192,
+    "aka": [
+      "月色撩人",
+      "Lost in the Moonlight"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 2.9,
+      "stars": "15",
+      "min": 0
+    },
+    "reviews_count": 40,
+    "wish_count": 459,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2427643545.jpg",
+      "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2427643545.jpg",
+      "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2427643545.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26331917/",
+    "id": "26331917",
+    "mobile_url": "https://movie.douban.com/subject/26331917/mobile",
+    "title": "碟仙诡谭2",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26331917",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26331917/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "中国大陆"
+    ],
+    "genres": [
+      "悬疑",
+      "惊悚"
+    ],
+    "collect_count": 533,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1245185/",
+        "avatars": {
+          "small": "https://img5.doubanio.com/img/celebrity/small/11506.jpg",
+          "large": "https://img5.doubanio.com/img/celebrity/large/11506.jpg",
+          "medium": "https://img5.doubanio.com/img/celebrity/medium/11506.jpg"
+        },
+        "name": "张韶涵",
+        "id": "1245185"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1171687/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/52125.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/52125.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/52125.jpg"
+        },
+        "name": "方力申",
+        "id": "1171687"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1016847/",
+        "avatars": {
+          "small": "https://img5.doubanio.com/img/celebrity/small/1352363438.56.jpg",
+          "large": "https://img5.doubanio.com/img/celebrity/large/1352363438.56.jpg",
+          "medium": "https://img5.doubanio.com/img/celebrity/medium/1352363438.56.jpg"
+        },
+        "name": "惠英红",
+        "id": "1016847"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1352994/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+          "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+          "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+        },
+        "name": "孙艺铭",
+        "id": "1352994"
+      }
+    ],
+    "current_season": null,
+    "original_title": "碟仙诡谭2",
+    "summary": "在一处荒僻隐秘的奢华娱乐会所里，一场同学毕业聚会正在进行。乔巧（张韶涵  饰）与关辛（方力申 饰）无意中发现了一套碟仙器具，为寻刺激众人一起玩碟仙。当他们提出的问题被碟仙一一言中时，厄运接连降临，妖魔化影鬼怪哭声，建筑被整个封锁，其中几人接连离奇的死亡。此时活下来的人才发现，这座会所是按照酷刑炼狱的场景布置陈设的，而他们也被困在了这座“人间地狱”里。人人自危的情景下，埋藏在彼此之间的矛盾也在此刻爆发。乔巧与关辛的爱情也面临着生与死的双重考验。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1121730/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/3303.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/3303.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/3303.jpg"
+        },
+        "name": "雷宇扬",
+        "id": "1121730"
+      }
+    ],
+    "comments_count": 335,
+    "ratings_count": 506,
+    "aka": [
+      "碟仙诡谭Ⅱ(3D)",
+      "Death Ouija 2"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 5.8,
+      "stars": "30",
+      "min": 0
+    },
+    "reviews_count": 651,
+    "wish_count": 16992,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2410569976.jpg",
+      "large": "https://img5.doubanio.com/view/movie_poster_cover/lpst/public/p2410569976.jpg",
+      "medium": "https://img5.doubanio.com/view/movie_poster_cover/spst/public/p2410569976.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/3230115/",
+    "id": "3230115",
+    "mobile_url": "https://movie.douban.com/subject/3230115/mobile",
+    "title": "极限特工3：终极回归",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/3230115",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/3230115/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "美国"
+    ],
+    "genres": [
+      "动作",
+      "冒险"
+    ],
+    "collect_count": 59426,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1041020/",
+        "avatars": {
+          "small": "https://img5.doubanio.com/img/celebrity/small/53186.jpg",
+          "large": "https://img5.doubanio.com/img/celebrity/large/53186.jpg",
+          "medium": "https://img5.doubanio.com/img/celebrity/medium/53186.jpg"
+        },
+        "name": "范·迪塞尔",
+        "id": "1041020"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1025194/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/10695.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/10695.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/10695.jpg"
+        },
+        "name": "甄子丹",
+        "id": "1025194"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1014002/",
+        "avatars": {
+          "small": "https://img5.doubanio.com/img/celebrity/small/4946.jpg",
+          "large": "https://img5.doubanio.com/img/celebrity/large/4946.jpg",
+          "medium": "https://img5.doubanio.com/img/celebrity/medium/4946.jpg"
+        },
+        "name": "迪皮卡·帕度柯妮",
+        "id": "1014002"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1337000/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1401722517.74.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1401722517.74.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1401722517.74.jpg"
+        },
+        "name": "吴亦凡",
+        "id": "1337000"
+      }
+    ],
+    "current_season": null,
+    "original_title": "xXx: The Return of Xander Cage",
+    "summary": "故事聚焦在由范·迪塞尔带头的的特工小队和以甄子丹为首的反派组织之间的对决。在这部作品中，迪塞尔饰演的特工凯奇不再是孤胆英雄，他将与一群出色的伙伴共同作战：塞缪尔·杰克逊饰演的国安局特工，印度女星迪皮卡·帕度柯妮饰演的与凯奇颇有渊源的女猎人，凭借《吸血鬼日记》走红的妮娜·杜波夫扮演的技术专家，《女子监狱》女星露比·罗丝饰演的狙击手,中国当红偶像演员吴亦凡饰演的特工Nicks。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1014019/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+          "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+          "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+        },
+        "name": "D·J·卡卢索",
+        "id": "1014019"
+      }
+    ],
+    "comments_count": 29077,
+    "ratings_count": 55511,
+    "aka": [
+      "极限特工：终极回归",
+      "3X反恐暴族：重火力回归(港)",
+      "限制级战警3: 重返极限(台)",
+      "极限特工3",
+      "Xander Returns"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 0,
+      "stars": "00",
+      "min": 0
+    },
+    "reviews_count": 3,
+    "wish_count": 159,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2430650748.jpg",
+      "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2430650748.jpg",
+      "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2430650748.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26818346/",
+    "id": "26818346",
+    "mobile_url": "https://movie.douban.com/subject/26818346/mobile",
+    "title": "诡眼",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26818346",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26818346/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "中国大陆"
+    ],
+    "genres": [
+      "惊悚",
+      "恐怖"
+    ],
+    "collect_count": 103,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1350970/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1439302647.53.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1439302647.53.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1439302647.53.jpg"
+        },
+        "name": "施展",
+        "id": "1350970"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1317368/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/39598.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/39598.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/39598.jpg"
+        },
+        "name": "文梦洋",
+        "id": "1317368"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1316731/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/49561.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/49561.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/49561.jpg"
+        },
+        "name": "兰岚",
+        "id": "1316731"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1369835/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+          "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+          "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+        },
+        "name": "廖越",
+        "id": "1369835"
+      }
+    ],
+    "current_season": null,
+    "original_title": "诡眼",
+    "summary": "受了三年牢狱之苦的徐达文，出狱后找到了自己飞黄腾达的孪生兄弟徐达武，久别重逢的两兄弟相见后却因金钱纠纷反目成仇，就从这一天开始，两人的命运也彻底发生了转变，先是不约而同的遭遇了各种离奇的恐怖事件，随后又常常的感觉到身边好像始终有一双诡异的眼睛窥视着自己。\n而这发生的一切似乎都指向了三年前的那一次“意外”，女大学生丽丽因突发状况失足滑倒，不幸身亡，徐达文因过失致人死亡罪，被轻判入狱三年。冤有头，债有主，这接二连三发生的怪事和那阴魂不散的双眼，究竟是死去的丽丽回来找他们索命，还是另有其人从中搞鬼，这场看似简单的“意外”则成为他们深陷死亡泥沼的肇因，而两人刻意隐藏了三年的“秘密”也渐渐的浮出了水面…",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1252926/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/4311.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/4311.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/4311.jpg"
+        },
+        "name": "欧阳奋强",
+        "id": "1252926"
+      }
+    ],
+    "comments_count": 68,
+    "ratings_count": 92,
+    "aka": [
+      "隔墙有眼",
+      "Spy Eyes"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 7,
+      "stars": "35",
+      "min": 0
+    },
+    "reviews_count": 4119,
+    "wish_count": 23892,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2408407697.jpg",
+      "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2408407697.jpg",
+      "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2408407697.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26862259/",
+    "id": "26862259",
+    "mobile_url": "https://movie.douban.com/subject/26862259/mobile",
+    "title": "乘风破浪",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26862259",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26862259/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "中国大陆"
+    ],
+    "genres": [
+      "剧情",
+      "喜剧"
+    ],
+    "collect_count": 208066,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1274235/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/805.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/805.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/805.jpg"
+        },
+        "name": "邓超",
+        "id": "1274235"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1013782/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1368156632.65.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1368156632.65.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1368156632.65.jpg"
+        },
+        "name": "彭于晏",
+        "id": "1013782"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1275620/",
+        "avatars": {
+          "small": "https://img5.doubanio.com/img/celebrity/small/1460551151.6.jpg",
+          "large": "https://img5.doubanio.com/img/celebrity/large/1460551151.6.jpg",
+          "medium": "https://img5.doubanio.com/img/celebrity/medium/1460551151.6.jpg"
+        },
+        "name": "赵丽颖",
+        "id": "1275620"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1330472/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1385100761.5.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1385100761.5.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1385100761.5.jpg"
+        },
+        "name": "董子健",
+        "id": "1330472"
+      }
+    ],
+    "current_season": null,
+    "original_title": "乘风破浪",
+    "summary": "赛车手阿浪（邓超 饰）一直对父亲（彭于晏 饰）反对自己的赛车事业耿耿于怀，在向父亲证明自己的过程中，阿浪却意外卷入了一场奇妙的冒险。他在这段经历中结识了一群兄弟好友，一同闯过许多奇幻的经历，也对自己的身世有了更多的了解。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1275307/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/11673.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/11673.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/11673.jpg"
+        },
+        "name": "韩寒",
+        "id": "1275307"
+      }
+    ],
+    "comments_count": 101593,
+    "ratings_count": 199770,
+    "aka": [
+      "Duckweed"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 5.5,
+      "stars": "30",
+      "min": 0
+    },
+    "reviews_count": 526,
+    "wish_count": 21530,
+    "douban_site": "",
+    "year": "2016",
+    "images": {
+      "small": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2432597986.jpg",
+      "large": "https://img5.doubanio.com/view/movie_poster_cover/lpst/public/p2432597986.jpg",
+      "medium": "https://img5.doubanio.com/view/movie_poster_cover/spst/public/p2432597986.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/11526817/",
+    "id": "11526817",
+    "mobile_url": "https://movie.douban.com/subject/11526817/mobile",
+    "title": "刺客信条",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/11526817",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/11526817/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "美国",
+      "英国",
+      "法国",
+      "香港"
+    ],
+    "genres": [
+      "动作",
+      "历史",
+      "科幻"
+    ],
+    "collect_count": 37327,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1000010/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/32214.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/32214.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/32214.jpg"
+        },
+        "name": "迈克尔·法斯宾德",
+        "id": "1000010"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1006955/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/36117.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/36117.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/36117.jpg"
+        },
+        "name": "玛丽昂·歌迪亚",
+        "id": "1006955"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1031216/",
+        "avatars": {
+          "small": "https://img5.doubanio.com/img/celebrity/small/336.jpg",
+          "large": "https://img5.doubanio.com/img/celebrity/large/336.jpg",
+          "medium": "https://img5.doubanio.com/img/celebrity/medium/336.jpg"
+        },
+        "name": "杰瑞米·艾恩斯",
+        "id": "1031216"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1000078/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/3150.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/3150.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/3150.jpg"
+        },
+        "name": "布莱丹·格里森",
+        "id": "1000078"
+      }
+    ],
+    "current_season": null,
+    "original_title": "Assassin's Creed",
+    "summary": "卡勒姆·林奇（迈克尔·法斯宾德 饰）在死刑即将执行之前清醒过来，发现他被索菲娅（玛丽昂·歌迪亚 饰）选中，来参加一个能让人类摆脱暴力冲动的计划。虚拟现实机器Animus能让用户体验祖先的记忆，被绑在机器上之后，卡勒姆·林奇意识到他是生活在西班牙宗教法庭时期一位刺客阿圭拉的后裔，他们寻找的是可以控制自由意志的伊甸园苹果。索菲娅在父亲艾伦（杰瑞米·艾恩斯 饰）施加的压力下不情愿地操纵着卡勒姆·林奇回到过去寻找伊甸园苹果在现代世界的下落，威胁着他身体和心理的健康。但在杀手同行穆萨（迈克尔·威廉姆斯 饰）暗示了卡勒姆·林奇，提醒他艾伦有可能动机不纯之后，卡勒姆·林奇开始重新考虑他的行为和动机，而人类自由意志的命运也变得悬而未决……",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1325342/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1398850505.5.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1398850505.5.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1398850505.5.jpg"
+        },
+        "name": "贾斯汀·库泽尔 ",
+        "id": "1325342"
+      }
+    ],
+    "comments_count": 18603,
+    "ratings_count": 34953,
+    "aka": [
+      "刺客教条(港/台)"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 6.5,
+      "stars": "35",
+      "min": 0
+    },
+    "reviews_count": 149,
+    "wish_count": 4837,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2414358483.jpg",
+      "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2414358483.jpg",
+      "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2414358483.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26831711/",
+    "id": "26831711",
+    "mobile_url": "https://movie.douban.com/subject/26831711/mobile",
+    "title": "熊出没·奇幻空间",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26831711",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26831711/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "中国大陆"
+    ],
+    "genres": [
+      "儿童",
+      "动画"
+    ],
+    "collect_count": 6746,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1276093/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/13497.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/13497.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/13497.jpg"
+        },
+        "name": "尚雯婕",
+        "id": "1276093"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1319975/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/48423.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/48423.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/48423.jpg"
+        },
+        "name": "鲍春来",
+        "id": "1319975"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1358840/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1465538991.83.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1465538991.83.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1465538991.83.jpg"
+        },
+        "name": "孙建弘",
+        "id": "1358840"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1356395/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1459829432.9.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1459829432.9.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1459829432.9.jpg"
+        },
+        "name": "曾舜晞",
+        "id": "1356395"
+      }
+    ],
+    "current_season": null,
+    "original_title": "熊出没·奇幻空间",
+    "summary": "《熊出没·奇幻空间》则继续围绕“森林”做题目，讲述熊大、熊二和光头强与金鹿角守护者——鹿族女孩协力保护金鹿角，击垮反派，最终让森林复苏的故事。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1336904/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1451195637.94.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1451195637.94.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1451195637.94.jpg"
+        },
+        "name": "丁亮",
+        "id": "1336904"
+      }
+    ],
+    "comments_count": 4167,
+    "ratings_count": 6948,
+    "aka": [
+      "熊出没之奇幻空间",
+      "熊出没大电影4",
+      "熊出没4",
+      "Entangled Worlds"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 0,
+      "stars": "00",
+      "min": 0
+    },
+    "reviews_count": 9,
+    "wish_count": 314,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2430083789.jpg",
+      "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2430083789.jpg",
+      "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2430083789.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26883093/",
+    "id": "26883093",
+    "mobile_url": "https://movie.douban.com/subject/26883093/mobile",
+    "title": "惊魂绣花鞋",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26883093",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26883093/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "中国大陆"
+    ],
+    "genres": [
+      "惊悚",
+      "恐怖"
+    ],
+    "collect_count": 364,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1359158/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1475063188.89.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1475063188.89.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1475063188.89.jpg"
+        },
+        "name": "何乙轩",
+        "id": "1359158"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1362817/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1475063562.01.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1475063562.01.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1475063562.01.jpg"
+        },
+        "name": "刘汉兆",
+        "id": "1362817"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1343936/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1475063230.82.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1475063230.82.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1475063230.82.jpg"
+        },
+        "name": "辉灿",
+        "id": "1343936"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1340638/",
+        "avatars": {
+          "small": "https://img5.doubanio.com/img/celebrity/small/1475063300.96.jpg",
+          "large": "https://img5.doubanio.com/img/celebrity/large/1475063300.96.jpg",
+          "medium": "https://img5.doubanio.com/img/celebrity/medium/1475063300.96.jpg"
+        },
+        "name": "周昕妤",
+        "id": "1340638"
+      }
+    ],
+    "current_season": null,
+    "original_title": "惊魂绣花鞋",
+    "summary": "一双绣花鞋，隐藏着一个死亡诅咒，凡是穿过绣花鞋的人都意外惨死，无一幸免。安雯（何乙轩 饰）大病未愈，摆脱了丈夫潘航（辉灿 饰）和医生的看护，独自逃回老家古宅生活。安雯在老宅发现了一双祖上流传并受到死亡诅咒的绣花鞋，阴差阳错之下绣花鞋穿在了她的脚上，意外开启了绣花鞋上的死亡诅咒。咒怨生效冤魂索命，盘桓在老宅之中的诡影无处不在，无法摆脱的恶灵如影随形，迫使频临崩溃的安雯做出疯狂的举动，陷入一场危机四伏的惊魂逃亡……",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1359155/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/1475062971.79.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/1475062971.79.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/1475062971.79.jpg"
+        },
+        "name": "王俊潾",
+        "id": "1359155"
+      }
+    ],
+    "comments_count": 213,
+    "ratings_count": 338,
+    "aka": [
+      "Frightening Embroidery Shoes"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 5.3,
+      "stars": "30",
+      "min": 0
+    },
+    "reviews_count": 1044,
+    "wish_count": 14203,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+      "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2412371389.jpg",
+      "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2412371389.jpg",
+      "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2412371389.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/26182910/",
+    "id": "26182910",
+    "mobile_url": "https://movie.douban.com/subject/26182910/mobile",
+    "title": "功夫瑜伽",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26182910",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26182910/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "中国大陆",
+      "印度"
+    ],
+    "genres": [
+      "喜剧",
+      "动作",
+      "冒险"
+    ],
+    "collect_count": 74213,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1054531/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/694.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/694.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/694.jpg"
+        },
+        "name": "成龙",
+        "id": "1054531"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1274292/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/10300.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/10300.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/10300.jpg"
+        },
+        "name": "李治廷",
+        "id": "1274292"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1338949/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1421061916.72.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1421061916.72.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1421061916.72.jpg"
+        },
+        "name": "张艺兴",
+        "id": "1338949"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1327209/",
+        "avatars": {
+          "small": "https://img1.doubanio.com/img/celebrity/small/uNAoXICIAcel_avatar_uploaded1362503546.58.jpg",
+          "large": "https://img1.doubanio.com/img/celebrity/large/uNAoXICIAcel_avatar_uploaded1362503546.58.jpg",
+          "medium": "https://img1.doubanio.com/img/celebrity/medium/uNAoXICIAcel_avatar_uploaded1362503546.58.jpg"
+        },
+        "name": "索努·苏德",
+        "id": "1327209"
+      }
+    ],
+    "current_season": null,
+    "original_title": "功夫瑜伽",
+    "summary": "考古学教授Jack（成龙 饰）多年没有踏出学校，校长和学生都对他添油加醋的历史半信半疑。一次授课后，一个印度女孩找到Jack，用一张千年地图吸引了Jack的目光。于是Jack和挚友的儿子李琼斯（李治廷 饰）、助教小光（张艺兴 饰）组成“寻宝小分队”，为“神秘宝石”展开冒险，在迪拜和土豪飙车，在冰岛潜入神秘冰穴，在印度大战土狼，和印度贵族斗舞，动作喜剧再升级，打笑全世界。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1299382/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/18712.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/18712.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/18712.jpg"
+        },
+        "name": "唐季礼",
+        "id": "1299382"
+      }
+    ],
+    "comments_count": 41709,
+    "ratings_count": 71213,
+    "aka": [
+      "Kung Fu Yoga"
+    ]
+  },
+  {
+    "rating": {
+      "max": 10,
+      "average": 5.1,
+      "stars": "25",
+      "min": 0
+    },
+    "reviews_count": 32,
+    "wish_count": 1731,
+    "douban_site": "",
+    "year": "2016",
+    "images": {
+      "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2426952758.jpg",
+      "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2426952758.jpg",
+      "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2426952758.jpg"
+    },
+    "alt": "https://movie.douban.com/subject/4078592/",
+    "id": "4078592",
+    "mobile_url": "https://movie.douban.com/subject/4078592/mobile",
+    "title": "上海王",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/4078592",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/4078592/cinema/",
+    "episodes_count": null,
+    "countries": [
+      "中国大陆"
+    ],
+    "genres": [
+      "剧情",
+      "动作",
+      "爱情"
+    ],
+    "collect_count": 1456,
+    "casts": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1032540/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/20960.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/20960.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/20960.jpg"
+        },
+        "name": "胡军",
+        "id": "1032540"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1050430/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/52860.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/52860.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/52860.jpg"
+        },
+        "name": "余男",
+        "id": "1050430"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1274684/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/1372773609.01.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/1372773609.01.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/1372773609.01.jpg"
+        },
+        "name": "凤小岳",
+        "id": "1274684"
+      },
+      {
+        "alt": "https://movie.douban.com/celebrity/1274463/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/44442.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/44442.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/44442.jpg"
+        },
+        "name": "秦昊",
+        "id": "1274463"
+      }
+    ],
+    "current_season": null,
+    "original_title": "上海王",
+    "summary": "电影讲述了20世纪初上海滩十里洋场、黑帮势力的角逐纷争。纷杂乱世中，奇女子筱月桂（余男 饰）与三代上海王之间充满传奇色彩的爱恨情仇。\n在妓院做丫头的乡下女孩小月桂（李梦 饰），“个高、胸大、没裹脚”，让老板新黛玉（白灵 饰）很不满意，却深得洪门老大常力雄（胡军 饰）欢心，成为一代上海王的女人。常力雄在与同盟会代表黄佩玉（秦昊 饰）接触过程中被暗杀，小月桂孤助无援，产女后流落乡下。\n历经数年艰辛，小月桂成立滩簧班子，重返大上海，在第二代上海王黄佩玉帮助下，成为“申曲名伶”筱月桂（余男 饰）。功成名就的筱月桂从没忘记要寻找杀死常力雄，也就是她女儿父亲的凶手。当她发现自己爱上黄佩玉时，也证实了“洪门内奸的真正身份”。她与常爷的前跟班余其扬（凤小岳 饰）合谋除去内奸，助余其扬成为洪门第一个银行家，新的“上海王”。",
+    "subtype": "movie",
+    "directors": [
+      {
+        "alt": "https://movie.douban.com/celebrity/1314371/",
+        "avatars": {
+          "small": "https://img3.doubanio.com/img/celebrity/small/34881.jpg",
+          "large": "https://img3.doubanio.com/img/celebrity/large/34881.jpg",
+          "medium": "https://img3.doubanio.com/img/celebrity/medium/34881.jpg"
+        },
+        "name": "胡雪桦",
+        "id": "1314371"
+      }
+    ],
+    "comments_count": 731,
+    "ratings_count": 1317,
+    "aka": [
+      "Lord of Shanghai"
+    ]
+  }
+]

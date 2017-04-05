@@ -1,0 +1,22 @@
+[
+  {
+    "name":"张坤",
+    "say":"Weather is cloudy!",
+    "date":"now"
+  },
+  {
+    "name":"郑明明",
+    "say":"ZK is nice!",
+    "date":"two days ago"
+  },
+  {
+    "name":"华强",
+    "say":"FUCK!",
+    "date":"now"
+  },
+  {
+    "name":"白狐狸",
+    "say":"You guess!",
+    "date":"two days ago"
+  }
+]
